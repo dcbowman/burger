@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name, devoured, date) VALUES ('BigMac', True, 6/4/16);
